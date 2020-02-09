@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8759bdfe-759e-4bec-bf57-84d8870cf94a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XaTnNFX6YP9ePQJZImxZ7cRPMi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Message/Message.java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Message" type="Java Scratch" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Message.Message" />
+      <module name="2470_assignment_3" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/src/Message/Message.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="Message" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/src/Message/Message.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8759bdfe-759e-4bec-bf57-84d8870cf94a" name="Default Changelist" comment="" />
+      <created>1581283371483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581283371483</updated>
+      <workItem from="1581283373612" duration="125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="376" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581283489021">
+      <screen x="0" y="27" width="1837" height="1053" />
+    </state>
+    <state x="376" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1837.1053@0.27.1837.1053" timestamp="1581283489021" />
+    <state x="759" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581283383899">
+      <screen x="0" y="27" width="1837" height="1053" />
+    </state>
+    <state x="759" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1837.1053@0.27.1837.1053" timestamp="1581283383899" />
+    <state x="701" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581283426711">
+      <screen x="0" y="27" width="1837" height="1053" />
+    </state>
+    <state x="701" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1837.1053@0.27.1837.1053" timestamp="1581283426711" />
+    <state width="1791" height="278" key="GridCell.Tab.0.bottom" timestamp="1581283498124">
+      <screen x="0" y="27" width="1837" height="1053" />
+    </state>
+    <state width="1791" height="278" key="GridCell.Tab.0.bottom/0.27.1837.1053@0.27.1837.1053" timestamp="1581283498124" />
+    <state width="1791" height="278" key="GridCell.Tab.0.center" timestamp="1581283498124">
+      <screen x="0" y="27" width="1837" height="1053" />
+    </state>
+    <state width="1791" height="278" key="GridCell.Tab.0.center/0.27.1837.1053@0.27.1837.1053" timestamp="1581283498124" />
+    <state width="1791" height="278" key="GridCell.Tab.0.left" timestamp="1581283498123">
+      <screen x="0" y="27" width="1837" height="1053" />
+    </state>
+    <state width="1791" height="278" key="GridCell.Tab.0.left/0.27.1837.1053@0.27.1837.1053" timestamp="1581283498123" />
+    <state width="1791" height="278" key="GridCell.Tab.0.right" timestamp="1581283498124">
+      <screen x="0" y="27" width="1837" height="1053" />
+    </state>
+    <state width="1791" height="278" key="GridCell.Tab.0.right/0.27.1837.1053@0.27.1837.1053" timestamp="1581283498124" />
+  </component>
+</project>
